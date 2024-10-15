@@ -1,4 +1,4 @@
-# Nuritionix Tracking API with Python Data Frames
+# Data Science Project: Nuritionix Tracking API with Python Data Frames
 ## Using API requests and Python libraries to extract user data & reports from the nuritionix website
 
 ### Version 1.0
